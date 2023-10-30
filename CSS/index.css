@@ -114,3 +114,7 @@ footer{
  
  /**Fim do Rodape*/
  
+
+ fieldset{
+display: flex;
+ }
