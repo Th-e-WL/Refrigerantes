@@ -66,8 +66,7 @@ border-radius:30px;
 
 /*Inicio label*/
 label#pesquisa{
-position: relative;
-left: 720px;
+    justify-content: flex-end;
 }
 /*Final label*/
 
