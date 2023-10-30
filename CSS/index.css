@@ -1,0 +1,58 @@
+/*Inicio Button*/
+
+button{
+    border: solid 1px gray;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+      
+   
+}
+.botao:hover{
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+
+button#pp{
+    border-radius:30px;
+}
+    
+
+
+button#cadastro{
+
+
+    border-radius:30px;
+}
+
+
+button#sobre{
+    border-radius:30px;
+
+    
+}
+
+button#fconosco{
+    border-radius:30px;
+}
+   
+
+/*Final Button*/
+
+/*Inicio label*/
+label#pesquisa{
+    position: relative;
+    left: 720px;
+}
+/*Final label*/
+
+/*Inicio input*/
+input#cpesquisa{
+    position: relative;
+    left: 720px;
+    
+  
+}
+/*Final input*/
