@@ -40,6 +40,7 @@ transform: scale(1.2)
 
 button#pp{
 border-radius:30px;
+display: flex;
 justify-content:space-around;
 }
 
@@ -47,18 +48,21 @@ justify-content:space-around;
 
 button#cadastro{
 border-radius:30px;
+display: flex;
 justify-content:space-around;
 }
 
 
 button#sobre{
 border-radius:30px;
+display: flex;
 justify-content:space-around;
 
 }
 
 button#fconosco{
 border-radius:30px;
+display: flex;
 justify-content:space-around;
 }
 
@@ -67,12 +71,14 @@ justify-content:space-around;
 
 /*Inicio label*/
 label#pesquisa{
+    display: flex;
     justify-content: flex-end;
 }
 /*Final label*/
 
 /*Inicio input*/
 input#cpesquisa{
+    display: flex;
 justify-content: flex-end;
 
 
