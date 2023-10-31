@@ -22,7 +22,7 @@ font-family: sans-serif;
 /*Final texto*/
 
 /*Inicio Button*/
-fieldset{
+
 button{
 border: solid 1px gray;
 border-radius: 20px;
@@ -66,7 +66,7 @@ display: flex;
 justify-content:space-around;
 }
 
-}
+
 /*Final Button*/
 
 /*Inicio label*/
