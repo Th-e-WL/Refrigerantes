@@ -30,7 +30,7 @@ color: blue;
 background-color: white;
 transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
 display: flex;
-justify-content: space-between;
+justify-content:space-around;
 }
 .botao:hover{
 background-color: blue;
