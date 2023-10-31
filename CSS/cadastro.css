@@ -27,16 +27,15 @@ h6{
 
 /*Inicio label*/
 label#pesquisa{
-    position: relative;
-    left: 720px;
+    display: flex;
+    justify-content: flex-end;
 }
 /*Final label*/
 
 /*Inicio input*/
 input#cpesquisa{
-    position: relative;
-    left: 720px;
-    
+    display: flex;
+    justify-content: flex-end;
   
 }
 /*Final input*/
