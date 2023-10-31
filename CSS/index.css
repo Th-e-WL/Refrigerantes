@@ -30,7 +30,7 @@ color: blue;
 background-color: white;
 transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
 display: flex;
-justify-content:space-around;
+
 }
 .botao:hover{
 background-color: blue;
@@ -40,25 +40,26 @@ transform: scale(1.2)
 
 button#pp{
 border-radius:30px;
+justify-content:space-around;
 }
 
 
 
 button#cadastro{
-
-
 border-radius:30px;
+justify-content:space-around;
 }
 
 
 button#sobre{
 border-radius:30px;
-
+justify-content:space-around;
 
 }
 
 button#fconosco{
 border-radius:30px;
+justify-content:space-around;
 }
 
 
