@@ -28,7 +28,7 @@ h6{
 /*Inicio label*/
 label#pesquisa{
     display: flex;
-    justify-content: flex-end;
+    justify-content: right;
 }
 /*Final label*/
 
