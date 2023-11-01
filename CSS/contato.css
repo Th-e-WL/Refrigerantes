@@ -66,13 +66,13 @@ body {
   .contact-info p {
     margin: 0;
   }
-  
+
   /**inicio do Rodape*/
 
 .container2 footer{
   font-family: sans-serif;
 }
-img{
+img#thiago{
   width: 30px;
 }
 
